@@ -1,0 +1,109 @@
+p{
+    color: gray;
+   
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px 15px 8px 15px;
+    border-radius: 10px;
+}
+/*--Nav--*/
+.logo{
+    width: 150px;
+}
+/*--nav-end--*/
+
+/*--carousel--*/
+.top-bg{
+    background-image: url(hot-gadgets/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+    
+}
+.carousel{
+    
+
+    background-image: url(hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 75px;
+
+}
+.col-6 img{
+    width: 100%;
+}
+
+.banner-products{
+    width: 85%;
+   
+}
+.banner-products p {
+    padding: 15px 0px 15px 0px;
+}
+
+/*--carousel-end--*/
+
+/*--smartphone--*/
+.smartphone-section{
+    margin: 80px 0px 50px 0px;
+}
+.see-all{
+    color: rgb(255, 166, 0);
+   text-decoration: none;
+    
+}
+.card-img-top{
+    width: 300px;
+    
+}
+.h-100{
+    border: none;
+    padding: 40px;
+}
+
+/*--smartphone-end--*/
+
+/*--categories--*/
+
+.ctg-space{
+    margin-top: 100px;
+  
+}
+.ctg{
+   
+    background-image: linear-gradient(to right bottom ,rgb(255, 230, 0),rgb(221, 151, 20));
+    border-radius: 10px;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 6px;
+
+}
+
+
+.ctg-img{
+    width: 100px;
+
+
+}
+.ctg-box{
+   width: 130px;
+   height: 150px;
+   border-style: none;
+   border-radius: 15px;
+
+}
+
+
+/*--categories--*/
+footer{
+    text-align: center;
+    margin: 150px 0 10px 0;
+    
+}
+a{
+    text-decoration: none;
+}
